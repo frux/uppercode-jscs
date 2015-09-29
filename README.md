@@ -1,2 +1,2 @@
 # uppercode-jscs
-Pre-commit jscs hook
+Uppercode hook running jscs on pre-commit
