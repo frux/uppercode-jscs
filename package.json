@@ -1,6 +1,6 @@
 {
   "name": "uppercode-jscs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Uppercode hook running jscs on pre-commit",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/frux/uppercode-jscs#readme",
   "dependencies": {
-    "generator-uppercode": "^0",
+    "generator-uppercode": "^0.1.0",
     "jscs": "^2.2.1"
   }
 }
