@@ -1,7 +1,7 @@
 module.exports = {
     'pre-commit': function(next){
         var stagedFiles = this.stagedFilesSync('ACM'),
-            jscs = __dirname  + '/node_modules/jscs/bin/jscs',
+            jscs = __dirname  + '/node_modules/jscs/bin/jscs -x',
             jsTest = /\.js$/,
             Uppercode = this;
 
