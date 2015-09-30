@@ -1,6 +1,6 @@
 {
   "name": "uppercode-jscs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Uppercode hook running jscs on pre-commit",
   "main": "index.js",
   "scripts": {
